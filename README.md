@@ -1,3 +1,3 @@
 This project is developed using Tuya SDK, which enables you tu quickly develop branded apps connecting and controlling smart scenarios of many devices. For more information, please check Tuya Developer Website.
 
-![原理图](原理图.jpg)
+![原理图](schema.jpg)
